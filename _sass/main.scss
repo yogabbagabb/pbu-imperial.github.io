@@ -28,7 +28,229 @@ $heading-stack: Fucxed, -apple-system, BlinkMacSystemFont, avenir next, avenir, 
 $text-stack: helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
 $fancy-stack: Heuristica, $text-stack;
 
+$dark-green:#5c9b64;
+$blue: #4bc8f6;
+$shiny: #97A2FF;
+$yellow: #FFC000;
+$red: #EE5746;
+
+$light-green: #49ab56;
+
+$canon-size: max(28px, 10ch);
+
 body {
     font-family: $text-stack;
-    font-size: max(14px, 10ch)
+    font-size: $canon-size;
+
+    margin: 0;
+}
+
+
+
+h1, h2, h3, h4, h5 {
+    font-family: $heading-stack;
+    text-transform: uppercase;
+}
+
+// Styling for use in markdown
+.fancy {
+    font-family: $fancy-stack;
+    text-transform: none;
+}
+.headingy {
+    font-family: $heading-stack;
+    text-transform: uppercase;
+}
+
+.huge {
+    font-size: 2em;
+}
+.small {
+    font-size: max(14px, 0.6em);
+}
+
+.green {
+    color: $dark-green;
+}
+.blue {
+    color: $blue;
+}
+.shiny {
+    color: $shiny;
+}
+.yellow {
+    color: $yellow;
+}
+.red {
+    color: $red;
+}
+
+.fill-green {
+    background-color: $light-green;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+}
+.fill-yellow {
+    background-color: $yellow;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+}
+.fill-blue {
+    background-color: $blue;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+}
+
+.middle-block {
+    // Here to make it clear!
+    display: block;
+
+    padding-left: 1%;
+    padding-right: 1%;
+
+    @media (min-width: 1000px) {
+        padding-left: calc(50vw - 500px);
+        padding-right: calc(50vw - 500px);
+    }
+}
+.left-block {
+    display: block;
+
+    padding-left: 1%;
+    padding-right: 1%;
+
+    @media (min-width: 1200px) {
+        padding-left: max(100px, calc(50vw - 900px));
+        // pad so that width to 1000px
+        padding-right: calc(100% - (max(100px, calc(50vw - 900px)) + 1000px));
+    }
+}
+.right-block {
+    display: block;
+
+    padding-left: 1%;
+    padding-right: 1%;
+
+    // Align left when screen is smol
+    text-align: left;
+    
+    @media (min-width: 1200px) {
+        text-align: right;
+
+        padding-right: max(100px, calc(50vw - 900px));
+        // pad so that width is 1000px
+        padding-left: calc(100% - (max(100px, calc(50vw - 900px)) + 1000px));
+    }
+}
+.wide-block {
+    // Here to make it clear!
+    display: block;
+
+    padding-left: 1%;
+    padding-right: 1%;
+
+    @media (min-width: 1100px) {
+        padding-left: max(100px, calc(50vw - 900px));
+        padding-right: max(100px, calc(50vw - 900px));
+    }
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+    
+    // move to the left on smol screens
+    @media (max-width: 1200px) {
+        text-align: left;
+    }
+}
+.center {
+    text-align: center;
+}
+
+// Default foonote style
+.footnotes {
+    // Small
+    font-size: max(10px, 0.2em);
+
+    // Wide block
+    padding-left: 1%;
+    padding-right: 1%;
+
+    @media (min-width: 1100px) {
+        padding-left: calc(100px);
+        padding-right: calc(100px);
+    }
+}
+
+a {
+    text-decoration: none;
+    color: $red;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+// Default img style
+img {
+    max-width: 100%;
+    max-height: 80vh;
+}
+.img-para {
+    text-align: center;
+}
+
+// avoid changing line height with super and subscripts
+sup {
+    font-size: 0.6em;
+    vertical-align: top;
+    // top: -0.em;
+    position: relative;
+}
+
+sub {
+    vertical-align: bottom;
+    // bottom: -0.3em;
+    position: relative;
+}
+
+// Tables
+thead {
+    tr {
+        th {
+            padding: 0.7em 0.5em 0.7em 0.5em;
+        }
+    }
+}
+tbody {
+    tr {
+        td {
+            padding: 0.5em 0.5em 0.5em 0.5em;
+        }
+    }
+}
+
+// TOC for faq
+.contents {
+    // Wide block
+    padding-left: 1%;
+    padding-right: 1%;
+
+    text-align: left;
+    @media (min-width: 1100px) {
+        text-align: right;
+
+        padding-left: max(100px, calc(50vw - 900px));
+        padding-right: max(100px, calc(50vw - 900px));
+    }
+    
+    li {
+        list-style: none;
+
+        a {
+            color: black;
+        }
+    }
 }
