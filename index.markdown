@@ -21,7 +21,7 @@ Read our draft policy motion
 Food systems account for ***a quarter***{: .fancy :} of global greenhouse gas emissions.[^1]
 {: .middle-block .small :}
 
-Left unchecked, ***our diets alone***{: .fancy :} will emit enough greenhouse gases to warm the earth well past 1.5 degrees, using up 75% of our carbon budget for 2.0 degrees.[^2]
+Left unchecked, ***our diets alone***{: .fancy :} will emit enough greenhouse gases to warm the earth well past 1.5 degrees and use up 75% of our carbon budget for 2.0 degrees.[^2]
 {: .middle-block .small :}
 
 ***What we eat***{: .fancy :} has a huge impact on our emissions.[^3] [^4] [^5] [^6]
@@ -36,7 +36,7 @@ The impacts of climate change will be massive and widespread, and we need to act
 
 [^3]: Hannah Ritchie (2020) - “You want to reduce the carbon footprint of your food? Focus on what you eat, not whether your food is local” Published online at OurWorldInData.org. Retrieved from: '[https://ourworldindata.org/food-choice-vs-eating-local](https://ourworldindata.org/food-choice-vs-eating-local)' [Online Resource]
 
-[^4]: Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. Science. – processed by Our World in Data. “Greenhouse gas emissions per kilogram” [dataset]. Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. Science. [original data]. Available at: [https://ourworldindata.org/explorers/food-footprints](https://ourworldindata.org/explorers/food-footprints).
+[^4]: Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. Science. - processed by Our World in Data. “Greenhouse gas emissions per kilogram” [dataset]. Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. Science. [original data]. Available at: [https://ourworldindata.org/explorers/food-footprints](https://ourworldindata.org/explorers/food-footprints).
 
 [^5]: Figure 5.7 in Bezner Kerr, R., T. Hasegawa, R. Lasco, I. Bhatt, D. Deryng, A. Farrell, H. Gurney-Smith, H. Ju, S. Lluch-Cota, F. Meza, G. Nelson, H. Neufeldt, and P. Thornton, 2022: Food, Fibre, and Other Ecosystem Products. In: Climate Change 2022: Impacts, Adaptation, and Vulnerability. Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [H.-O. Pörtner, D.C. Roberts, M. Tignor, E.S. Poloczanska, K. Mintenbeck, A. Alegría, M. Craig, S. Langsdorf, S. Löschke, V. Möller, A. Okem, B. Rama (eds.)]. Cambridge University Press, Cambridge, UK and New York, NY, USA, pp. 713-906, doi:10.1017/9781009325844.007.
 
