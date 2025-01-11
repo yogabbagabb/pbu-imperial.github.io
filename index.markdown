@@ -34,7 +34,7 @@ Without a plant-based diet, we're very likely to exceed 2.0<sup>o</sup>C of warm
 ## Biodiversity loss
 {: .fill-red .wide-block .right }
 
-Switching to plant-based diets could quarter the amount of space we need to feed planet, freeing up plenty of space for animals.
+Switching to plant-based diets could quarter the amount of space we need to feed the planet, freeing up plenty of space for animals.
 {: .right-block }  
 
 ## Justice
