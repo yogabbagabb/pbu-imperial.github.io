@@ -154,12 +154,9 @@ a {
     padding-left: 1%;
     padding-right: 1%;
 
-    // Align left when screen is smol
-    text-align: left;
+    text-align: right;
     
     @media (min-width: 1200px) {
-        text-align: right;
-
         padding-right: max(100px, calc(50vw - 900px));
         // pad so that width is 1000px
         padding-left: calc(100% - (max(100px, calc(50vw - 900px)) + 1000px));
@@ -184,9 +181,9 @@ a {
     text-align: right;
     
     // move to the left on smol screens
-    @media (max-width: 1200px) {
-        text-align: left;
-    }
+    // @media (max-width: 1200px) {
+    //     text-align: left;
+    // }
 }
 .center {
     text-align: center;
@@ -252,10 +249,8 @@ tbody {
     padding-left: 1%;
     padding-right: 1%;
 
-    text-align: left;
+    text-align: right;
     @media (min-width: 1100px) {
-        text-align: right;
-
         padding-left: max(100px, calc(50vw - 900px));
         padding-right: max(100px, calc(50vw - 900px));
     }
