@@ -6,7 +6,7 @@ We are <span class="yellow">plant-based universities</span>, a grassroots moveme
 
 ---
 
-Fill out our survey
+[Fill out our survey](https://imperial.eu.qualtrics.com/jfe/form/SV_3Ldkvi8p4U8Bh9c)
 {: .headingy .wide-block .left .fill-blue :}
 
 Contact the student union
@@ -206,7 +206,7 @@ Yes! An appropriately planned plant-based catering is adequate (and beneficial) 
 Plant-based diets are more than sufficient for protein and improve upon the status-quo with regards to “fibre, folate, vitamin C, and phytochemicals [...] all essential factors for disease prevention, and optimal health and well-being.”[^29]
 {: .wide-block .left .small :}
 
-Education of staff is essential to ensure the correct provision of Vitamins B12 and D, iodine, iron, selenium and Omega-3[^30] fats via plant-based foods which are rich in these or fortification. For example, iron is readily available from legumes and leafy greens paired with citrus; omega 3 can be digested from flaxseed, chia seeds, walnut or rapeseed (oil) and selenium occurs naturally in brazil nuts. Vitamins B12 and D and iodine require fortification or supplementation: both plant and animal products must be fortified with (or fed) B12 and iodine; and NHS UK recommends all adults supplement vitamin D (in winter) anyway.[^21] However, Imperial currently conducts no nutritional analysis of its catering provision and we don’t see a novel need for such analysis with the transition to plant-based catering.
+Education of staff is essential to ensure the correct provision of Vitamins B12 and D, iodine, iron, selenium and Omega-3[^30] fats via plant-based foods which are rich in these or fortification. For example, iron is readily available from legumes and leafy greens paired with citrus; omega 3 can be digested from flaxseed, chia seeds, walnut or rapeseed (oil) and selenium occurs naturally in brazil nuts. Vitamins B12 and D and iodine require fortification or supplementation: both plant and animal products must be fortified with (or fed) B12 and iodine; and NHS UK recommends all adults supplement vitamin D (in winter) anyway.[^21] **However, Imperial currently conducts no nutritional analysis of its catering provision and we don’t see a novel need for such analysis with the transition to plant-based catering.**
 {: .wide-block .left .small :}
 
 [^29]: Nutrition Facts. (2014). “Do vegetarians get enough protein”. Available at: [https://nutritionfacts.org/video/do-vegetarians-get-enough-protein/](https://nutritionfacts.org/video/do-vegetarians-get-enough-protein/)
