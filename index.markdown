@@ -331,7 +331,7 @@ Thanks to the Cambridge University plant-based universities team for providing t
 [***Download the Facts & FAQ here.***](/assets/pdfs/PBU%20supplementary%20material%20PUBLIC%20VER.pdf)
 {: .fancy .right-block .small }
 
-# ACT
+# Act
 {: .fill-green .wide-block .center }
 
 You've made it this far, get involved:
