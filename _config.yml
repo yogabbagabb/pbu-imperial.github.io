@@ -1,10 +1,9 @@
 title: PBU Imperial
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   For 100% plant-based catering on campus
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://pbu-imperial.org" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  squalm
+github_username: squalm
 
 # Build settings
 plugins:

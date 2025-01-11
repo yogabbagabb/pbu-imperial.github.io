@@ -43,7 +43,10 @@ body {
     font-size: $canon-size;
     // Smaller fonts on mobile
     @media (max-width: 932px) {
-        font-size: 20px;
+        font-size: 50px;
+    }
+    @media (max-width: 600px) {
+        font-size: 30px;
     }
 
     margin: 0;
@@ -73,6 +76,10 @@ a {
     font-family: $heading-stack;
     text-transform: uppercase;
 }
+
+strong { &.headingy {
+    font-weight: normal;
+}}
 
 .huge {
     font-size: 2em;
@@ -104,6 +111,7 @@ a {
 
     a {
         color: inherit;
+        text-decoration: underline;
     }
 }
 .fill-yellow {
@@ -113,10 +121,21 @@ a {
 
     a {
         color: inherit;
+        text-decoration: underline;
     }
 }
 .fill-blue {
     background-color: $blue;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+
+    a {
+        color: inherit;
+        text-decoration: underline;
+    }
+}
+.fill-red {
+    background-color: $red;
     padding-top: 0.1em;
     padding-bottom: 0.1em;
 
@@ -261,6 +280,21 @@ tbody {
 
         a {
             color: black;
+        }
+    }
+}
+
+// Fancy looking problems
+.red-bkg {
+    background-color: $red;
+
+    .fill-white {
+        background-color: white;
+        padding-top: 0.1em;
+        padding-bottom: 0.1em;
+
+        a {
+            color: inherit;
         }
     }
 }
