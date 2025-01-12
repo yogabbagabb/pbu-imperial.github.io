@@ -48,7 +48,7 @@ Ready to help? **[Contact your councillors](/councillors)**{: .headingy }.
 ## Our wins
 {: .fill-yellow .wide-block }
 
-**11**{: .shiny } student unions have already signed up to **100% plant-based catering**{: .headingy .yellow }.
+**14**{: .shiny } student unions have already signed up to **100% plant-based catering**{: .headingy .yellow }.
 {: .left-block }
 
 ![PBU campfire](/assets/images/pictures/CampCampfire.jpeg)
