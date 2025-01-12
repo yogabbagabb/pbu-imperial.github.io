@@ -21,7 +21,7 @@ useful tag:
 {::options parse_block_html="true" T}
 -->
 
-![PBU camp jumping](/assets/images/pictures/SummerCamp2023.jpeg){: .banner .center }
+![PBU camp jumping](/assets/images/pictures/SummerCamp2023.jpg){: .banner .center }
 
 ## How do we benefit?
 {: .fill-red .wide-block .left }
@@ -51,7 +51,7 @@ Ready to help? **[Contact your councillors](/councillors)**{: .headingy }.
 **14**{: .shiny } student unions have already signed up to **100% plant-based catering**{: .headingy .yellow }.
 {: .left-block }
 
-![PBU campfire](/assets/images/pictures/CampCampfire.jpeg)
+![PBU campfire](/assets/images/pictures/CampCampfire.jpg)
 {: .img-para }
 
 # The Facts
