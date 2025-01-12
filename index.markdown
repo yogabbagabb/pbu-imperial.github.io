@@ -23,7 +23,7 @@ useful tag:
 -->
 
 ![PBU campfire](/assets/images/pictures/CampCampfire.jpeg)
-{: .img-para .connect-above .connect-below }
+{: .img-para }
 
 The planetary crises loom large, and there is no silver bullet, but **plant-based catering**{: .headingy .yellow } is a big part of the silver ***buckshot***{: .fancy } we need to address them. That's why we're here, doing this.
 {: .middle-block }

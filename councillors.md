@@ -9,6 +9,9 @@ title: Contact the SU
 We will present our motion again to the Union Council on **4<sup>th</sup> February** and we need your help to pass it.
 {: .middle-block }
 
+![PBU Imperial outreach event](/assets/images/pictures/PBUIoutreach.jpeg)
+{: .img-para }
+
 # The Details
 {: .fill-blue .wide-block .right }
 
