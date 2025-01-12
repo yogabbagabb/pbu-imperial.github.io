@@ -151,7 +151,7 @@ strong { &.headingy {
     padding-left: 1%;
     padding-right: 1%;
 
-    @media (min-width: 1000px) {
+    @media (min-width: 1200px) {
         padding-left: calc(50vw - 500px);
         padding-right: calc(50vw - 500px);
     }
@@ -189,7 +189,7 @@ strong { &.headingy {
     padding-left: 1%;
     padding-right: 1%;
 
-    @media (min-width: 1100px) {
+    @media (min-width: 1200px) {
         padding-left: max(100px, calc(50vw - 900px));
         padding-right: max(100px, calc(50vw - 900px));
     }
@@ -228,6 +228,9 @@ strong { &.headingy {
 img {
     max-width: 100%;
     max-height: 80vh;
+    // Bring images in front of header
+    position: relative;
+    z-index: 2;
 }
 .img-para {
     text-align: center;
@@ -300,17 +303,51 @@ tbody {
     }
 }
 
-// Fancy looking problems
-.red-bkg {
-    background-color: $red;
+// // Fancy looking problems
+// .red-bkg {
+//     background-color: $red;
 
-    .fill-white {
-        background-color: white;
-        padding-top: 0.1em;
-        padding-bottom: 0.1em;
+//     .fill-white {
+//         background-color: white;
+//         padding-top: 0.1em;
+//         padding-bottom: 0.1em;
 
-        a {
-            color: inherit;
+//         a {
+//             color: inherit;
+//         }
+//     }
+// }
+
+// Header
+#nav {
+
+    font-size: max(14px, 0.3em);
+    margin: 0.3em;
+    text-align: left;
+    mix-blend-mode: difference;
+
+    width: calc(50vw - 910px);
+
+    ul {
+        list-style-type: none;
+        display: block;
+        li {
+            display: inline;
+        }
+    }
+
+    position: fixed;
+    top: 0;
+
+    // This will be the setting most of the time
+    @media (max-width: 2100px) {
+        position: relative;
+        text-align: center;
+        width: unset;
+
+
+        ul {
+            padding: 0;
         }
     }
 }

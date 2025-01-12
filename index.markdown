@@ -2,7 +2,7 @@
 layout: home
 ---
 We are **plant-based universities**{: .headingy .yellow }, a grassroots movement lobbying universities to transition to ***plant-based***{: .fancy } catering.
-{: .headingy .middle-block }
+{: .headingy .middle-block .top-item }
 
 ---
 
