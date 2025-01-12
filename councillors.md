@@ -92,6 +92,3 @@ I'm just a lousy email template - coming soon.
 | SCC Chair                                                    | [William Chen](mailto:sccc@imperial.ac.uk)                                         |
 | Silwood Chair                                                | [Jana Braun-Wilson](mailto:silpres@imperial.ac.uk)                                 |
 {: .wide-block .small }
-
-[Back home.](/)
-{: .wide-block .small .center }
