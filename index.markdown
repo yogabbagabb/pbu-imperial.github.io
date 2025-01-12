@@ -22,6 +22,9 @@ useful tag:
 {::options parse_block_html="true" T}
 -->
 
+![PBU campfire](/assets/images/pictures/CampCampfire.jpeg)
+{: .img-para .connect-above .connect-below }
+
 The planetary crises loom large, and there is no silver bullet, but **plant-based catering**{: .headingy .yellow } is a big part of the silver ***buckshot***{: .fancy } we need to address them. That's why we're here, doing this.
 {: .middle-block }
 
@@ -56,9 +59,7 @@ Ready to help? **[Contact your councillors](/councillors)**{: .headingy }.
 Plant-Based Universities campaigners have successfully [passed motions](https://www.plantbaseduniversities.org) at **11**{: .shiny } universities.
 {: .right-block }
 
-<br />
-
----
+![PBU camp jumping](/assets/images/pictures/SummerCamp2023.jpeg){: .banner .center }
 
 We are an international grassroots student campaign calling for universities to transition in a just and sustainable way to **100% plant-based catering**. 
 {: .wide-block }
@@ -342,12 +343,6 @@ You've made it this far, get involved:
 
 <!-- [Join our next meeting]()
 {: .headingy .wide-block .center .fill-blue } -->
-
-
-<!-- Temporary until we have a proper footer -->
-Website by ***[Oscar Mitcham](https://xhirp.com)***{: .fancy }.
-{: .right-block .small }
-
 
 ---
 
