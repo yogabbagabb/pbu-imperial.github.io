@@ -36,7 +36,7 @@ $red: #EE5746;
 
 $light-green: #49ab56;
 
-$canon-size: max(28px, 10ch);
+$canon-size: max(28px, 5ch);
 
 body {
     font-family: $text-stack;
@@ -152,8 +152,8 @@ strong { &.headingy {
     padding-right: 1%;
 
     @media (min-width: 1200px) {
-        padding-left: calc(50vw - 500px);
-        padding-right: calc(50vw - 500px);
+        padding-left: calc(50vw - 400px);
+        padding-right: calc(50vw - 400px);
     }
 }
 .left-block {
@@ -163,9 +163,9 @@ strong { &.headingy {
     padding-right: 1%;
 
     @media (min-width: 1200px) {
-        padding-left: max(100px, calc(50vw - 900px));
+        padding-left: max(100px, calc(50vw - 600px));
         // pad so that width to 1000px
-        padding-right: calc(100% - (max(100px, calc(50vw - 900px)) + 1000px));
+        padding-right: calc(100% - (max(100px, calc(50vw - 600px)) + 800px));
     }
 }
 .right-block {
@@ -177,9 +177,9 @@ strong { &.headingy {
     text-align: right;
     
     @media (min-width: 1200px) {
-        padding-right: max(100px, calc(50vw - 900px));
+        padding-right: max(100px, calc(50vw - 600px));
         // pad so that width is 1000px
-        padding-left: calc(100% - (max(100px, calc(50vw - 900px)) + 1000px));
+        padding-left: calc(100% - (max(100px, calc(50vw - 600px)) + 800px));
     }
 }
 .wide-block {
@@ -190,8 +190,8 @@ strong { &.headingy {
     padding-right: 1%;
 
     @media (min-width: 1200px) {
-        padding-left: max(100px, calc(50vw - 900px));
-        padding-right: max(100px, calc(50vw - 900px));
+        padding-left: max(100px, calc(50vw - 600px));
+        padding-right: max(100px, calc(50vw - 600px));
     }
 }
 .left {
@@ -290,8 +290,8 @@ tbody {
 
     text-align: right;
     @media (min-width: 1100px) {
-        padding-left: max(100px, calc(50vw - 900px));
-        padding-right: max(100px, calc(50vw - 900px));
+        padding-left: max(100px, calc(50vw - 600px));
+        padding-right: max(100px, calc(50vw - 600px));
     }
     
     li {
@@ -326,7 +326,7 @@ tbody {
     text-align: left;
     mix-blend-mode: difference;
 
-    width: calc(50vw - 910px);
+    width: calc(50vw - 610px);
 
     ul {
         list-style-type: none;
@@ -340,14 +340,14 @@ tbody {
     top: 0;
 
     // This will be the setting most of the time
-    @media (max-width: 2100px) {
+    @media (max-width: 1700px) {
         position: relative;
-        text-align: center;
         width: unset;
 
-
         ul {
-            padding: 0;
+            br {
+                display: none;
+            }
         }
     }
 }

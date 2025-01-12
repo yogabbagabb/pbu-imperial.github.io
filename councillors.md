@@ -3,7 +3,7 @@ layout: home
 permalink: councillors
 title: Contact the SU
 ---
-# ACT
+# Act
 {: .wide-block .center .fill-green }
 
 We will present our motion again to the Union Council on **4<sup>th</sup> February** and we need your help to pass it.
@@ -92,3 +92,5 @@ I'm just a lousy email template - coming soon.
 | SCC Chair                                                    | [William Chen](mailto:sccc@imperial.ac.uk)                                         |
 | Silwood Chair                                                | [Jana Braun-Wilson](mailto:silpres@imperial.ac.uk)                                 |
 {: .wide-block .small }
+
+{% include footer.html %}
