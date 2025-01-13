@@ -100,8 +100,11 @@ A fully plant-based system is a proportional response to the climate catastrophe
 In the specific case of Imperial, a UROP found that removing meat and dairy from catering would reduce our catering’s emissions by 40%. It also found that plant-based protein was cheaper and less emitting than meat protein (except game, which was the cheapest but emits more than plants) and that meat and dairy make up 56% of our catering’s emissions. Note this study only covers Taste Imperial and events catering.[^25]
 {: .wide-block .left .small }
 
-Transitioning to a fully plant-based catering system within Imperial College London is not about taking away anybody’s personal choice. Indeed, individuals can still follow whatever diet they wish and eat whatever food they want in their daily lives. The College has stated this themselves, saying in an interview “we're not telling people what they can eat across the week or across the year. It's just what do we make available and that we're responsible for in our catering outlets? What people choose is up to them, but what we make available is up to us.”
+Transitioning to a fully plant-based catering system within Imperial College London is not about taking away anybody’s personal choice. Indeed, individuals can still follow whatever diet they wish and eat whatever food they want in their daily lives. The College has stated this themselves, saying in an interview:
 {: .wide-block .left .small }
+
+“We're not telling people what they can eat across the week or across the year. It's just what do we make available and that we're responsible for in our catering outlets? What people choose is up to them, but what we make available is up to us.”  
+{: .wide-block .right .headingy .fill-blue }
 
 Instead, the proposed change needs to take place on an institutional level. Imperial College London, as a world-leading centre for academic research, must take the lead in promoting a fair and sustainable food system. When the scientific research so overwhelmingly shows that moving towards a plant-based future offers the best chance to avoid the worst impacts of climate catastrophe, powerful institutions become complicit by failing to take decisive action.
 {: .wide-block .left .small }
