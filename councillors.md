@@ -4,7 +4,7 @@ permalink: councillors
 title: Contact the SU
 ---
 # Act
-{: .wide-block .center .fill-green }
+{: .wide-block .center .fill-green .connect-above }
 
 We will present our motion again to the Union Council on **4<sup>th</sup> February** and we need your help to pass it.
 {: .middle-block }
@@ -92,5 +92,11 @@ I'm just a lousy email template - coming soon.
 | SCC Chair                                                    | [William Chen](mailto:sccc@imperial.ac.uk)                                         |
 | Silwood Chair                                                | [Jana Braun-Wilson](mailto:silpres@imperial.ac.uk)                                 |
 {: .wide-block .small }
+
+# [Fill out our survey](https://imperial.eu.qualtrics.com/jfe/form/SV_3Ldkvi8p4U8Bh9c)
+{: .headingy .wide-block .center .fill-blue }
+
+While you're here can you fill out our survey? Last time we presented our motion they asked us for more data from students, so far we have **150+**{: .shiny } responses.
+{: .middle-block }
 
 {% include footer.html %}

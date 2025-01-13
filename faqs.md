@@ -4,7 +4,7 @@ permalink: faqs
 title: The FAQs
 ---
 # The FAQs
-{: .fill-green .left-block }
+{: .fill-green .left-block .connect-above }
 
 - [Why is a plant-based food system needed?](#why-is-a-plant-based-food-system-needed)
 - [What about health?](#what-about-health)
