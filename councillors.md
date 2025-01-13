@@ -96,7 +96,7 @@ I'm just a lousy email template - coming soon.
 # [Fill out our survey](https://imperial.eu.qualtrics.com/jfe/form/SV_3Ldkvi8p4U8Bh9c)
 {: .headingy .wide-block .center .fill-blue }
 
-While you're here can you fill out our survey? Last time we presented our motion they asked us for more data from students, so far we have **150+**{: .shiny } responses.
+While you're here can you fill out our survey? Last time we presented our motion they asked us for more data from students. So far we have **150+**{: .shiny } responses.
 {: .middle-block }
 
 {% include footer.html %}
