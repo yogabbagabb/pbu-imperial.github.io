@@ -23,17 +23,23 @@ useful tag:
 
 ![PBU camp jumping](/assets/images/pictures/SummerCamp2023.jpg){: .banner .center }
 
-## How do we benefit?
-{: .fill-red .wide-block .left }
+# How do we benefit?
+{: .fill-green .wide-block .left }
 
-Health, price, enjoyment etc.... 
+**Plant-based catering**{: .headingy .yellow } is **affordable**, **healthy**, more **accessible** to dietary requirements. It's also kinder to the climate and nature. 
 {: .left-block }  
 
-## What can I do?
-{: .fill-red .wide-block .right }
+Want all the facts? **[Check out the FAQs](/faqs)**{: .headingy }.
+{: .left-block }
 
-Different people (councillors, students).
+# What can I do?
+{: .fill-green .wide-block .right }
+
+We're asking students to encourage their Union Councillors to **vote for our motion** at the next Council meeting and attend the Sustainability Forum, if they have questions.
 {: .right-block }  
+
+We can use the Union's support of **100% plant-based catering**{: .headingy .yellow } to pressure Imperial to transition their outlets.
+{: .right-block }
 
 <!-- Move to FAQ!
 ## Justice
@@ -43,9 +49,9 @@ What we eat is deeply intersectional. We will only accept a transition that work
 {: .left-block } -->
 
 Ready to help? **[Contact your councillors](/councillors)**{: .headingy }.
-{: .right-block .small }
+{: .right-block }
 
-## Our wins
+# Our wins
 {: .fill-yellow .wide-block }
 
 **14**{: .shiny } student unions have already signed up to **100% plant-based catering**{: .headingy .yellow }.
@@ -58,16 +64,16 @@ Ready to help? **[Contact your councillors](/councillors)**{: .headingy }.
 {: .fill-green .left-block }
 
 Food systems account for ***a quarter***{: .fancy } of global greenhouse gas emissions.[^1]
-{: .middle-block .small }
+{: .left-block .small }
 
 Left unchecked, ***our diets alone***{: .fancy } will emit enough greenhouse gases to warm the earth well past 1.5 degrees and use up 75% of our carbon budget for 2.0 degrees.[^2]
-{: .middle-block .small }
+{: .left-block .small }
 
 ***What we eat***{: .fancy } has a huge impact on our emissions.[^3] [^4] [^5] [^6]
-{: .middle-block .small }
+{: .left-block .small }
 
 The impacts of climate change will be massive and widespread, and we need to act at ***speed & scale***{: .fancy } to reduce our emissions.[^7] [^8]
-{: .middle-block .small }
+{: .left-block .small }
 
 [^1]: Mbow, C., C. Rosenzweig, L.G. Barioni, T.G. Benton, M. Herrero, M. Krishnapillai, E. Liwenga, P. Pradhan, M.G. Rivera-Ferre, T. Sapkota, F.N. Tubiello, Y. Xu, 2019: Food Security. In: Climate Change and Land: an IPCC special report on climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems [P.R. Shukla, J. Skea, E. Calvo Buendia, V. Masson-Delmotte, H.-O. Pörtner, D.C. Roberts, P. Zhai, R. Slade, S. Connors, R. van Diemen, M. Ferrat, E. Haughey, S. Luz, S. Neogi, M. Pathak, J. Petzold, J. Portugal Pereira, P. Vyas, E. Huntley, K. Kissick, M. Belkacemi, J. Malley, (eds.)]. In press.
 
@@ -87,13 +93,13 @@ The impacts of climate change will be massive and widespread, and we need to act
 
 
 So, we need to change what we eat to help save the planet. Plants are much more efficient than animals, as they are further down the food chain, and so emit much less carbon dioxide and methane and take up much less space[^9]. In the UK, a plant-based diet could reduce the emissions of the average person’s diet by as much as 84%[^10], so ***the thing we must do to ensure our diets emit less is eat more plants and fewer animals.***{: .fancy }
-{: .left-block .small }
+{: .middle-block .small }
 
 By not transitioning to plant-based catering, we neglect ~25% of global emissions and condone the effects of climate change.
-{: .left-block .small }
+{: .middle-block .small }
 
 There are so many co-benefits to eating more plants, including benefits to health, biodiversity, and pollution. Our argument is strong from any of these perspectives, but we hope the above is especially clear. There really is no alternative but to act on this. Our diets must change, and our habits must change, and our cultures must change. It will not be easy, but plant-based catering is a good start.
-{: .left-block .small }
+{: .middle-block .small }
 
 [^9]: Hannah Ritchie (2021) - “If the world adopted a plant-based diet, we would reduce global agricultural land use from 4 to 1 billion hectares” Published online at OurWorldInData.org. Retrieved from: '[https://ourworldindata.org/land-use-diets](https://ourworldindata.org/land-use-diets)' [Online Resource]
 
