@@ -26,7 +26,7 @@ useful tag:
 # How do we benefit?
 {: .fill-green .wide-block .left }
 
-**Plant-based catering**{: .headingy .yellow } is **affordable**, **healthy**, more **accessible** to dietary requirements. It's also kinder to the climate and nature. 
+**Plant-based catering**{: .headingy .yellow } is **affordable**, **healthy**, and more **accessible** to dietary requirements. It's also kinder to the climate and nature. 
 {: .left-block }  
 
 Want all the facts? **[Check out the FAQs](/faqs)**{: .headingy }.
