@@ -19,6 +19,9 @@ title: The FAQs
 - [What about intolerances & allergies?](#what-about-intolerances--allergies)
 {: .contents .small }
 
+[**View this as a PDF.**](/assets/pdfs/PBU%20supplementary%20material%20PUBLIC%20VER.pdf)
+{: .right-block .small }
+
 ## Overview
 {: .fill-yellow .right-block }
 
