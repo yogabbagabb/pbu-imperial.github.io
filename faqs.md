@@ -67,6 +67,8 @@ There are so many co-benefits to eating more plants, including benefits to healt
 
 [^10]: Kim, Brent; Santo, Raychel; Scatterday, Allysan; Fry, Jillian; Synk, Colleen; Cebron, Shannon; Mekonnen, Mesfin; Hoekstra, Arjen; de Pee, Saskia; Bloem, Martin; Neff, Roni; Nachman, Keeve (2019), “Data for: Country-specific dietary shifts to mitigate climate and water crises”, Mendeley Data, V3, doi: 10.17632/g8n8w8snmj.3
 
+![PBU camp 2024](/assets/images/pictures/SummerCamp2024.JPG){: .center .banner }
+
 ## Why is a plant-based food system needed?
 {: .fill-yellow .wide-block .right }
 
@@ -261,6 +263,9 @@ Adopting plant-based menus eliminates 5 (milk, eggs, crustaceans, fish, molluscs
 | **Fish**       | 1.4% (0.8-2.0)                                 | 0.8% (0.6-1.1)                |
 | **Shellfish**  | 0.4% (0.3-0.6)                                 | 1.0% (0.6-1.5)                |  
 {: .small .wide-block .fill-blue }
+
+![PBU summer camp 2024 kitch](/assets/images/pictures/Camp2024Kitchen.JPG)
+{: .img-para }
 
 ## Acknowledgments
 {: .fill-yellow .wide-block .right }
