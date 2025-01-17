@@ -337,8 +337,8 @@ tbody {
     position: fixed;
     top: 0;
 
-    // This will be the setting most of the time
-    @media (max-width: 1700px) {
+    // This will be the setting on small/medium screens
+    @media (max-width: 1400px) {
         position: relative;
         width: unset;
 
