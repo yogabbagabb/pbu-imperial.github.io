@@ -145,7 +145,7 @@ A fully plant-based system is a proportional response to the climate catastrophe
 ![Graphs showing changes on diets effects on emissions by 2050 and 2075](/assets/images/diet-scenarios-emissions.png)  
 {: .img-para }
 
-In the specific case of Imperial, a UROP found that removing meat and dairy from catering would reduce our catering’s emissions by 40%. It also found that plant-based protein was cheaper and less emitting than meat protein (except game, which was the cheapest but emits more than plants) and that meat and dairy make up 56% of our catering’s emissions. Note this study only covers Taste Imperial and events catering.[^25]
+In the specific case of Imperial, a UROP found that removing meat and dairy from catering would reduce our catering’s emissions by 40%. It also found that plant-based protein was cheaper and less emitting than meat protein (except game, which was the cheapest but emits more than plants) and that meat and dairy make up 56% of our catering’s emissions. Note this study only covers Taste Imperial and events catering.[^6]
 {: .wide-block .left .small }
 
 Transitioning to a fully plant-based catering system within Imperial College London is not about taking away anybody’s personal choice. Indeed, individuals can still follow whatever diet they wish and eat whatever food they want in their daily lives. The College has stated this themselves, saying in an interview:
@@ -160,12 +160,10 @@ Instead, the proposed change needs to take place on an institutional level. Impe
 By only serving plant-based foods in Imperial-owned and -managed eateries, the College can once more prove itself the pioneering institution it aims to be. A fully plant-based menu would align with the University’s existing sustainability ambitions and showcase its environmental and social credentials to the world.
 {: .wide-block .left .small }
 
-[^25]: Chloé Lewis. (2021). “Catering Carbon Footprint 2019”. Sustainable Imperial, UROP.
-
 ## What about locally sourced food?
 {: .fill-yellow .wide-block .right }
 
-At Imperial, the UROP mentioned above found that sourcing food locally would increase catering’s emissions by 4% rather than decrease them, so this should not be a priority.[^25]
+At Imperial, the UROP mentioned above found that sourcing food locally would increase catering’s emissions by 4% rather than decrease them, so this should not be a priority.[^6]
 {: .wide-block .left .small }
 
 In general, GHG emissions from transportation make up a very small amount of the emissions from food. The type of food is far more important than where the food comes from.[^26] The first figure (above) shows, in red, the emissions from transport compared to total emissions for several products and illustrates this point very clearly. We can see that the portion is generally very small, but since this portion of the supply chain is quite visible, consumers tend to overestimate its significance.
