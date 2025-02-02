@@ -36,7 +36,7 @@ I'm just a lousy email template - coming soon.
 [Find your councillors here](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/24-25/Union_Council/2397)
 {: .fill-blue .wide-block .center .headingy }
 
-While you're here can you fill out our survey? Last time we presented our motion they asked us for more data from students. So far we have **150+**{: .shiny } responses.
+While you're here can you fill out our survey? Last time we presented our motion they asked us for more data from students. So far we have **200+**{: .shiny } responses.
 {: .middle-block .small }
 
 # [Fill out our survey](https://imperial.eu.qualtrics.com/jfe/form/SV_3Ldkvi8p4U8Bh9c)
