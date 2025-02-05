@@ -6,7 +6,7 @@ title: Contact the SU
 # Act
 {: .wide-block .center .fill-green .connect-above }
 
-We will present our motion again to the Union Council on **4<sup>th</sup> February** and we need your help to pass it.
+**UPDATE 4/2/25:** We **passed**{: .shiny } our motion through the union council calling on Imperial to transition to 100% plant-based catering and committing the union to do the same! The council voted **24 - 13**{: .shiny } in favour of the motion. [Read more here.](https://www.plantbaseduniversities.org/post/bristol-and-imperial-college-london-students-vote-for-100-plant-based-catering)
 {: .middle-block }
 
 ![PBU Imperial outreach event](/assets/images/pictures/PBUIoutreach.jpeg)
@@ -26,12 +26,6 @@ We need campaigners to ask their representatives to be at the **Sustainability F
 
 For more on how the Union works, check out their explanation [here](https://www.imperialcollegeunion.org/about-us/how-were-run).
 {: .left-block .small }
-
-## Template Email
-{: .fill-yellow .wide-block .center }
-
-I'm just a lousy email template - coming soon.
-{: .middle-block .small }
 
 [Find your councillors here](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/24-25/Union_Council/2397)
 {: .fill-blue .wide-block .center .headingy }

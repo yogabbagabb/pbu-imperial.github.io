@@ -23,6 +23,23 @@ useful tag:
 
 ![PBU camp jumping](/assets/images/pictures/SummerCamp2023.jpg){: .banner .center }
 
+# We Won!
+{: .fill-yellow .wide-block .center }
+
+The Union Council **passed**{: .shiny } our motion calling on Imperial to transition to 100% plant-based catering and committing the union to do the same!  
+{: .left-block }
+
+The council voted **24 - 13**{: .shiny } in favour of the motion.
+{: .left-block }
+
+The motion resolves a timeline of: **50%**{: .yellow } plant-based options in **2027/28**, increasing by **10%**{: .yellow } each subsequent year, up to **100% plant-based**{: .yellow .headingy }.
+{: .middle-block .fill-green }
+
+![PBU Imperial outside ICU](/assets/images/pictures/PBUImperial2025.jpeg){: .banner .center}
+
+PBU now has the endorsement of the student union, and it's time to actually make change happen in the University.
+{: .right-block }
+
 # How do we benefit?
 {: .fill-green .wide-block .left }
 
@@ -54,7 +71,7 @@ Ready to help? **[Contact your councillors](/councillors)**{: .headingy }.
 # Our wins
 {: .fill-yellow .wide-block }
 
-**14**{: .shiny } student unions have already signed up to **100% plant-based catering**{: .headingy .yellow }.
+**15**{: .shiny } student unions have already signed up to **100% plant-based catering**{: .headingy .yellow }.
 {: .left-block }
 
 ![PBU campfire](/assets/images/pictures/CampCampfire.jpg)
