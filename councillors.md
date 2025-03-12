@@ -9,6 +9,9 @@ title: Contact the SU
 **UPDATE 4/2/25:** We **passed**{: .shiny } our motion through the union council calling on Imperial to transition to 100% plant-based catering and committing the union to do the same! The council voted **24 - 13**{: .shiny } in favour of the motion. [Read more here.](https://www.plantbaseduniversities.org/post/bristol-and-imperial-college-london-students-vote-for-100-plant-based-catering)
 {: .middle-block }
 
+**UPDATE 30/1/25:** The sustainability forum went really well! [Here're the slides](/assets/pdfs/PBU%20Sust%20forum%20Jan25.pdf) from the event.
+{: .middle-block }
+
 ![PBU Imperial outreach event](/assets/images/pictures/PBUIoutreach.jpeg)
 {: .img-para }
 
