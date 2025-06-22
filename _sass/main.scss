@@ -234,6 +234,12 @@ img {
 }
 .img-para {
     text-align: center;
+    max-width: 98%;
+
+    @media (min-width: 1200px) {
+        padding-left: max(100px, calc(50vw - 600px));
+        padding-right: max(100px, calc(50vw - 600px));
+    }
 }
 .banner {
     width: 100%;

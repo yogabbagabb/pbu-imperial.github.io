@@ -10,6 +10,7 @@ title: The FAQs
 - [What about health?](#what-about-health)
 - [What about inequality & discrimination?](#what-about-inequality--discrimination)
 - [Why entirely plant-based?](#why-entirely-plant-based)
+- [What's the difference between vegetarian and plant-based?](#whats-the-difference-between-vegetarian-and-plant-based)
 - [What about locally sourced food?](#what-about-locally-sourced-food)
 - [What about grass-fed, free-range, red tractor, etc.?](#what-about-grass-fed-free-range-red-tractor-etc)
 - [Can plant-based catering provide all the nutrients I need?](#can-plant-based-catering-provide-all-the-nutrients-i-need)
@@ -158,6 +159,24 @@ Instead, the proposed change needs to take place on an institutional level. Impe
 {: .wide-block .left .small }
 
 By only serving plant-based foods in Imperial-owned and -managed eateries, the College can once more prove itself the pioneering institution it aims to be. A fully plant-based menu would align with the University’s existing sustainability ambitions and showcase its environmental and social credentials to the world.
+{: .wide-block .left .small }
+
+## What's the difference between vegetarian and plant-based?
+{: .fill-yellow .wide-block .right }
+
+Vegetarian means plants and animal-derived products like milk, but not animal meat. Plant-based means only plants.
+{: .wide-block .left .small }
+
+In general, vegetarians do not reduce their emissions very much by being vegetarian. This graph shows the emissions of eating various diets in the UK:[^10]
+{: .wide-block .left .small }
+
+![Kim et al graph](/assets/images/diets-emissions-graph.png)
+{: .img-para }
+
+Key (right to left): bovine meat, dairy, poultry, pig meat, eggs, aquatic animals, grains, sheep and goat meat, sugars, vegetables, vegetable oils, fruits, starchy roots, pulses and soy, nuts and seeds.
+{: .middle-block .left .small }
+
+As you can see, vegetarian diets may only reduce emissions by about 30%, whereas plant-based diets can reduce emissions by up to 80%. This is mostly because of milk and cheese, which vegetarian meals often contain a lot of. This major difference between emisisons is why we ask for plant-based catering rather than just vegetarian catering.
 {: .wide-block .left .small }
 
 ## What about locally sourced food?
