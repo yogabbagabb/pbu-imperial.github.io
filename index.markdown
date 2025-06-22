@@ -5,7 +5,7 @@ We are **plant-based universities**{: .headingy .yellow },
 a grassroots movement lobbying universities to transition to ***plant-based catering***{: .fancy }.
 {: .headingy .middle-block .top-item }
 
-[Join the campaign](/councillors)
+[Join the campaign](/departments)
 {: .headingy .wide-block .center .fill-blue }
 
 <!-- [Contact the student union](/councillors)
@@ -65,7 +65,7 @@ We can use the Union's support of **100% plant-based catering**{: .headingy .yel
 What we eat is deeply intersectional. We will only accept a transition that works for exactly everyone.
 {: .left-block } -->
 
-Ready to help? **[Contact your councillors](/councillors)**{: .headingy }.
+Ready to help? **[Contact your councillors](/departments)**{: .headingy }.
 {: .right-block }
 
 # Our wins
