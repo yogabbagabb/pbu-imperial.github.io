@@ -65,7 +65,7 @@ We can use the Union's support of **100% plant-based catering**{: .headingy .yel
 What we eat is deeply intersectional. We will only accept a transition that works for exactly everyone.
 {: .left-block } -->
 
-Ready to help? **[Contact your councillors](/departments)**{: .headingy }.
+Ready to help? **[Join us](/departments)**{: .headingy }.
 {: .right-block }
 
 # Our wins
