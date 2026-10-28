@@ -21,7 +21,7 @@ Read more [here](https://www.plantbaseduniversities.org/post/bristol-and-imperia
 Now we need to actually implement **100% plant-based catering**{: .headingy .yellow }. We're breaking up into departmental campaigns to make change, while keeping presure up on the university as a whole.
 {: .wide-block }
 
-We need people to start campaigns in their departments. Contact us at **pbu@ic.ac.uk**{: .red } and we can put your in contact with your campaign or help you start a new one.
+We need people to start campaigns in their departments. Contact us at **pbu@ic.ac.uk**{: .red } or join our **[WhatsApp group](https://chat.whatsapp.com/BQwngptKQRgJiw99879mbI?s=cl&p=i&mlu=4&ilr=4&iam=2)**{: .red } and we can put your in contact with your campaign or help you start a new one.
 {: .wide-block }
 
 {% include footer.html %}

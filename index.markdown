@@ -52,7 +52,7 @@ Want all the facts? **[Check out the FAQs](/faqs)**{: .headingy }.
 # What can I do?
 {: .fill-green .wide-block .right }
 
-We're asking students to encourage their Union Councillors to **vote for our motion** at the next Council meeting and attend the Sustainability Forum, if they have questions.
+We're asking students to support this transition by ordering the **plant-based**{: .headingy .yellow } options at Beit bar. We'd also love new members to join our team to help us encourage departments within Imperial to transition their catering to **plant-based**{: .headingy .yellow }.
 {: .right-block }  
 
 We can use the Union's support of **100% plant-based catering**{: .headingy .yellow } to pressure Imperial to transition their outlets.
